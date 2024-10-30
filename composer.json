@@ -1,0 +1,13 @@
+{
+    "name": "meow/wp-copytrack",
+    "description": "Copytrack for WordPress",
+    "require": {
+        "guzzlehttp/guzzle": "^7.0"
+    },
+    "authors": [
+        {
+            "name": "Jordy Meow",
+            "email": "inscr@meow.fr"
+        }
+    ]
+}
